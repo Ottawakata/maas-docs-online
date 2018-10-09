@@ -22,7 +22,7 @@ signing up.
 		<source src="../_static/video/signup.webm">
 	</video>
 
-Once you have submitted your details, you will receive a confirmation email. By clicking the Activate button in the email, you will be brought to the Solace PubsSub+ Cloud Console
+Once you have submitted your details, you will receive a confirmation email. By clicking the Activate button in the email, you will be brought to the Solace PubSub+ Cloud Console
 where you must enter a password to activate your Solace PubSub+ Cloud account. Once activated, you will be automatically logged into the console.
 
 Step 2: Create a service
